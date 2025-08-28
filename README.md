@@ -1,10 +1,5 @@
 <h1>Restaurant Orders Website</h1>
 <p>This is a clean and responsive front-end website for a restaurant, built with standard web technologies. It provides a user-friendly interface for browsing a menu and managing a shopping cart.</p>
-<ul>
-  <h3>Live Demo / Screenshots</h3>
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/Screenshot%202025-08-28%20104906.jpg" alt="Screenshot of Home Page" width="600">
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/Screenshot%202025-08-28%20105011.jpg" alt="Screenshot of Contact Page" width="600">
-</ul>
 
 <h2>Key Features</h2>
 <ul>
